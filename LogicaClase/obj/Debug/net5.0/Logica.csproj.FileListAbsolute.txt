@@ -1,0 +1,12 @@
+C:\Users\Altam\OneDrive\Desktop\versiones examen\21-5\Laboratorio-2--1er-Parcial\Altamrano.Lucas.2D.1erParcial.Laboratorio\LogicaClase\bin\Debug\net5.0\Logica.deps.json
+C:\Users\Altam\OneDrive\Desktop\versiones examen\21-5\Laboratorio-2--1er-Parcial\Altamrano.Lucas.2D.1erParcial.Laboratorio\LogicaClase\bin\Debug\net5.0\Logica.dll
+C:\Users\Altam\OneDrive\Desktop\versiones examen\21-5\Laboratorio-2--1er-Parcial\Altamrano.Lucas.2D.1erParcial.Laboratorio\LogicaClase\bin\Debug\net5.0\Logica.pdb
+C:\Users\Altam\OneDrive\Desktop\versiones examen\21-5\Laboratorio-2--1er-Parcial\Altamrano.Lucas.2D.1erParcial.Laboratorio\LogicaClase\obj\Debug\net5.0\Logica.csproj.AssemblyReference.cache
+C:\Users\Altam\OneDrive\Desktop\versiones examen\21-5\Laboratorio-2--1er-Parcial\Altamrano.Lucas.2D.1erParcial.Laboratorio\LogicaClase\obj\Debug\net5.0\Logica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Altam\OneDrive\Desktop\versiones examen\21-5\Laboratorio-2--1er-Parcial\Altamrano.Lucas.2D.1erParcial.Laboratorio\LogicaClase\obj\Debug\net5.0\Logica.AssemblyInfoInputs.cache
+C:\Users\Altam\OneDrive\Desktop\versiones examen\21-5\Laboratorio-2--1er-Parcial\Altamrano.Lucas.2D.1erParcial.Laboratorio\LogicaClase\obj\Debug\net5.0\Logica.AssemblyInfo.cs
+C:\Users\Altam\OneDrive\Desktop\versiones examen\21-5\Laboratorio-2--1er-Parcial\Altamrano.Lucas.2D.1erParcial.Laboratorio\LogicaClase\obj\Debug\net5.0\Logica.csproj.CoreCompileInputs.cache
+C:\Users\Altam\OneDrive\Desktop\versiones examen\21-5\Laboratorio-2--1er-Parcial\Altamrano.Lucas.2D.1erParcial.Laboratorio\LogicaClase\obj\Debug\net5.0\Logica.dll
+C:\Users\Altam\OneDrive\Desktop\versiones examen\21-5\Laboratorio-2--1er-Parcial\Altamrano.Lucas.2D.1erParcial.Laboratorio\LogicaClase\obj\Debug\net5.0\refint\Logica.dll
+C:\Users\Altam\OneDrive\Desktop\versiones examen\21-5\Laboratorio-2--1er-Parcial\Altamrano.Lucas.2D.1erParcial.Laboratorio\LogicaClase\obj\Debug\net5.0\Logica.pdb
+C:\Users\Altam\OneDrive\Desktop\versiones examen\21-5\Laboratorio-2--1er-Parcial\Altamrano.Lucas.2D.1erParcial.Laboratorio\LogicaClase\obj\Debug\net5.0\ref\Logica.dll
